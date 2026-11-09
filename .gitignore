@@ -1,0 +1,8 @@
+# Nothing here should ever ship game content or engine blobs.
+*.tar.xz
+*.tar.gz
+*.dll
+*.exe
+prefix/
+env.sh
+.DS_Store
